@@ -1,34 +1,37 @@
-header{
-    background-color:grey;
-    width: 100%;
-    margin-left: 50%;
-    height: 55px;
-}
-
-footer{
-    background-color:grey;
+body{
     width: 960px;
-    margin-left: auto;
-    margin-right: auto;  
+    margin: auto;
+
+}
+header {
+    background-color: grey;
+    position:fixed;
+  
 }
 
-li{
+footer {
+    background-color: grey;
+    /* width: 960px; */
+}
+
+li {
     display: inline;
     padding: 28px;
     text-decoration: none;
 }
 
-ul{
+ul {
     display: inline;
-    font-family: 'Lora', serif;
+    font-family: "Lora", serif;
     font-size: 24px;
     text-transform: capitalize;
     text-shadow: 0px 0px 2px;
     text-decoration: none;
+    color: black;
 }
 
-p{
-    font-family: 'Lora', serif;
+p {
+    font-family: "Lora", serif;
     font-size: 19px;
     text-shadow: 0px 0px 2px;
     text-align: justify;
@@ -42,50 +45,68 @@ p{
     text-decoration: none;
 }
 
-.a{
-    margin: 1%;    
+.a {
+    margin-top: 8%;
 }
 
-.c{
+.c {
     text-align: center;
     text-transform: capitalize;
-    margin-top: 40px; 
+    
     text-shadow: 0px 0px 2px;
 }
 
-.b{
-    text-transform: capitalize;
-    text-align:right;
-    margin-bottom: 40px; 
-    text-shadow: 0px 0px 2px;
+.b {
+    /* text-transform: capitalize;
+    text-align: right;
+    margin-bottom: 40px;
+    text-shadow: 0px 0px 2px; */
 }
 
-h1{
-    font-family: 'Lora', serif;
+h1 {
+    font-family: "Lora", serif;
     text-transform: uppercase;
     text-shadow: 0px 0px 2px;
     letter-spacing: 4px;
 }
 
-a{
+a {
     text-decoration: none;
     color: black;
 }
-a:hover { 
-    text-transform: uppercase;  
-
+a:hover {
+    text-transform: uppercase;
 }
-blockquote{
+blockquote {
     font-size: 18px;
 }
 
-.d{
+.d {
     text-align: right;
     text-shadow: 0px 0px 4px;
     text-transform: capitalize;
+    width: 960px;
 }
 
-ol li{    
+ol li {
     font-size: 24px;
     display: block;
+}
+
+.rows{
+    /* height: 100px; */
+}
+h6{
+    font-family: "Lora", serif;
+    text-shadow: 0px 0px 2px;
+}
+
+h2{
+    font-family: "Lora", serif;
+    text-shadow: 0px 0px 2px;
+    text-transform: capitalize; 
+}
+.extra{
+    
+    
 }
