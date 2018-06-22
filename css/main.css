@@ -1,0 +1,91 @@
+header{
+    background-color:grey;
+    width: 100%;
+    margin-left: 50%;
+    height: 55px;
+}
+
+footer{
+    background-color:grey;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+li{
+    display: inline;
+    padding: 28px;
+    text-decoration: none;
+}
+
+ul{
+    display: inline;
+    font-family: 'Lora', serif;
+    font-size: 24px;
+    text-transform: capitalize;
+    text-shadow: 0px 0px 2px;
+    text-decoration: none;
+}
+
+p{
+    font-family: 'Lora', serif;
+    font-size: 19px;
+    text-shadow: 0px 0px 2px;
+    text-align: justify;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.a{
+    margin: 1%;    
+}
+
+.c{
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 40px; 
+    text-shadow: 0px 0px 2px;
+}
+
+.b{
+    text-transform: capitalize;
+    text-align:right;
+    margin-bottom: 40px; 
+    text-shadow: 0px 0px 2px;
+}
+
+h1{
+    font-family: 'Lora', serif;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 2px;
+    letter-spacing: 4px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover { 
+    text-transform: uppercase;  
+
+}
+blockquote{
+    font-size: 18px;
+}
+
+.d{
+    text-align: right;
+    text-shadow: 0px 0px 4px;
+    text-transform: capitalize;
+}
+
+ol li{    
+    font-size: 24px;
+    display: block;
+}
