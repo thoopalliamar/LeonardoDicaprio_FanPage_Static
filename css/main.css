@@ -1,12 +1,10 @@
-body{
+body {
     width: 960px;
     margin: auto;
-
 }
 header {
     background-color: grey;
-    position:fixed;
-  
+    position: fixed;
 }
 
 footer {
@@ -52,7 +50,7 @@ p {
 .c {
     text-align: center;
     text-transform: capitalize;
-    
+
     text-shadow: 0px 0px 2px;
 }
 
@@ -82,7 +80,7 @@ blockquote {
 }
 
 .d {
-    text-align: right;
+    
     text-shadow: 0px 0px 4px;
     text-transform: capitalize;
     width: 960px;
@@ -93,20 +91,13 @@ ol li {
     display: block;
 }
 
-.rows{
-    /* height: 100px; */
-}
-h6{
+h6 {
     font-family: "Lora", serif;
     text-shadow: 0px 0px 2px;
 }
 
-h2{
+h2 {
     font-family: "Lora", serif;
     text-shadow: 0px 0px 2px;
-    text-transform: capitalize; 
-}
-.extra{
-    
-    
+    text-transform: capitalize;
 }
